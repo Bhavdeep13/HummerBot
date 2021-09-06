@@ -23,4 +23,4 @@ ISO:[Emakefun](http://www.emakefun.com/en/download)</br>
 # Programming software download
 [Arduino IDE software download](https://www.arduino.cc/en/Main/Software?setlang=en)</br>
 [MagicBlock software download ](http://www.emakefun.com/en/download)</br>
-[mBlock 5 software download](https://www.mblock.cc/en-us/download)</br>]
+[mBlock 5 software download](https://www.mblock.cc/en-us/download)</br>
